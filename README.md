@@ -1,2 +1,2 @@
-# fitcoin-email-verification
-fitcoin-email-verification
+# fc-email-verification
+fc-email-verification
